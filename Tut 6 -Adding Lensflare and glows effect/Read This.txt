@@ -1,0 +1,15 @@
+Welcome to the NemoX engine Tutorial Series
+'
+Tutorial# 6 :Adding LensFlare
+'for questions and remark go to
+'the Engine Website:http://perso.wanadoo.fr/malakoff/index.htm
+'
+'Or mail me at Johna_pop@yahoo.fr
+'
+'If you are interresting of making demos,sample,tuts for NemoX engine
+'or you want to help me mail Me Johna_pop@yahoo.fr
+'
+'======================================================
+'MAKE SURE YOU HAVE DOWNLOAD THE ENGINE FILES AND HAVE
+'SEEN THE TUT #1 at http://perso.wanadoo.fr/malakoff/index.htm
+'project section
